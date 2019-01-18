@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Avatar">
+        <attr name="startColorLoading" format="color" />
+        <attr name="endColorLoading" format="color" />
+        <attr name="placeHolderID" format="reference" />
+        <attr name="loadingSize" format="dimension" />
+        <attr name="borderSize" format="dimension" />
+        <attr name="borderColor" format="color" />
+
+    </declare-styleable>
+</resources>
